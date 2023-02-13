@@ -2,7 +2,7 @@ This project aims to shed some light on different patterns for implementing Reac
 
 # Current Examples
 - [NextJS + .Net with YARP](https://github.com/BaileyMillerSSI/react-in-dotnet/tree/nextjs)
-- [.Net + Webpack (Div Replacment)](https://github.com/BaileyMillerSSI/react-in-dotnet/tree/div-replacement)
+- [.Net + Webpack (Div Replacement)](https://github.com/BaileyMillerSSI/react-in-dotnet/tree/div-replacement)
 
 # Future Examples
 - ReactJS.Net
