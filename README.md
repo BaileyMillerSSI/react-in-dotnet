@@ -7,7 +7,8 @@
 - Launch an incognito browser and navigate to the URL hosting the .Net project to get started
 
 ## Results
-- [Lighthouse](./resources/lighthouse_scores.html)
+- [Lighthouse](./resources/lighthouse_scores.json)
+![Scores](./resources/scores.png)
 
 ## Pros
 - Microservice approach allows for development to happen in either platform and deployment / hosting strategies can vary and adapt
