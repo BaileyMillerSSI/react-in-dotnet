@@ -19,7 +19,7 @@
     - In a true microservice approach more backend/frontend sites can be spun up independent of each other to meet demand
 - Statically generated content with Next
 - Flexibility of Next allows the front end to adapt to different scenarios without needing to change anything
-    - This demo is currently using a statically generated component. However it would be very easy to switch to an [Incremental Static Regeneration (ISR)](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration) or [Sever Side Render](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props) approach without changing any of the core project setup.
+    - This demo is currently using a statically generated component. However it would be very easy to switch to an [Incremental Static Regeneration (ISR)](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration) or [Sever Side Render (SSR)](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props) approach without changing any of the core project setup.
 - Local development
     - A pro of any tech stack is how easy it is to work with and develop in. Next out of the box provides a smooth development flow with everything already setup like HMR and other local considerations. The other approaches can offer similar features but at the cost of time to set them up.
     - Integration into the project is simple, creating new routes inside of the NextJs application will enable them in the presentation application via YARP without code changes or configuration changes.
