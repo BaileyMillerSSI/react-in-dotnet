@@ -39,5 +39,6 @@ This approach allows for the most flexibility in terms of the future of web tech
 
 ## Other Comments and Concerns
 - The component used for all these approaches is a fairly simple single page view. It was generated using create-t3-app with Tailwind integration. It is a very simple component and these scores could change with a much larger more complex UI. However, I believe the scores in this approach wouldn't be greatly degraded because of the nature of NextJS providing statically generated content at compile time.
+- The lighthouse score could be improved to be 100s across the board, the create-t3-app starter component has a minor accessability error in it.
 
-_All views presented here are my own and not presentative of my company or work.
+_All views presented here are my own and not presentative of my company or work._
