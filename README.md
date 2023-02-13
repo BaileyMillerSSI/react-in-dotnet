@@ -36,3 +36,8 @@
 
 ## Overall option
 This approach allows for the most flexibility in terms of the future of web technologies. By splitting the concerns of the application into smaller chunks the application can change and grow to meet new needs without refactoring the entire thing. Next features can be implemented to solve front end problems and .Net features can be implemented to solve backend problems. Merging these two technologies allows for a great development experience as well as the ability to create a performant dynamic application for the end user.
+
+## Other Comments and Concerns
+- The component used for all these approaches is a fairly simple single page view. It was generated using create-t3-app with Tailwind integration. It is a very simple component and these scores could change with a much larger more complex UI. However, I believe the scores in this approach wouldn't be greatly degraded because of the nature of NextJS providing statically generated content at compile time.
+
+_All views presented here are my own and not presentative of my company or work.
