@@ -8,10 +8,13 @@
 
 ## Results
 - [Lighthouse with client side meta tags](./resources/lighthouse_metatags.json)
+
 ![Scores with client side meta tags](./resources/lighthouse_metatags.png)
+
 ![Performance with client side meta tags](./resources/lighthouse_metatags_performance.png)
 
 - [Lighthouse without client side meta tags](./resources/lighthouse_nometatags.json)
+
 ![Scores without client side meta tags](./resources/lighthouse_nometatags.png)
 
 ## Pros
