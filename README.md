@@ -2,9 +2,6 @@
 ## Getting started
 This approach will not be completed because the project ReactJS.Net is no longer in active development. As such I cannot recommend anyone using it for production code or in a new project. See [#1315](https://github.com/reactjs/React.NET/issues/1315)
 
-## Results
-
-
 ## Pros
 - Offers the promise of server side rendering React inside of a single C# application
 
