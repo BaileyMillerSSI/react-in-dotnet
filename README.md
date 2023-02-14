@@ -6,7 +6,7 @@ This approach will not be completed because the project ReactJS.Net is no longer
 
 
 ## Pros
-- Offers the promise of server side rendering inside of a single C# application
+- Offers the promise of server side rendering React inside of a single C# application
 
 ## Cons
 - Maintenance mode
